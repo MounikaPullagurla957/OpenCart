@@ -1,0 +1,60 @@
+11:41:03.901 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\mopullag\eclipse-workspace\Hybridframework\CrossBrowser.xml
+
+11:41:22.877 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - *********starting tc001_accountRegistrationTest***********
+11:41:23.871 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on myaccount link
+11:41:24.544 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register Link
+11:41:24.558 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - providing customer details
+11:41:24.989 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *********starting tc001_accountRegistrationTest***********
+11:41:25.883 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on myaccount link
+11:41:33.877 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register Link
+11:41:33.883 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - providing customer details
+11:41:39.480 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - validating the expected message
+11:41:39.599 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - validating the expected message
+11:41:39.809 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *********finished TC001_accountRegistrationTest***********
+11:41:39.809 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - *********finished TC001_accountRegistrationTest***********
+11:41:44.186 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - *********starting tc001_accountRegistrationTest***********
+11:41:44.562 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on myaccount link
+11:41:45.187 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register Link
+11:41:45.191 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - providing customer details
+11:41:46.632 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - validating the expected message
+11:41:46.680 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - *********finished TC001_accountRegistrationTest***********
+14:05:51.711 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\mopullag\eclipse-workspace\Hybridframework\master.xml
+
+14:05:59.662 [main] INFO  testCases.TC001_AccountRegistrationTest - *********starting tc001_accountRegistrationTest***********
+14:05:59.876 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on myaccount link
+14:06:00.289 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register Link
+14:06:00.292 [main] INFO  testCases.TC001_AccountRegistrationTest - providing customer details
+14:06:02.514 [main] INFO  testCases.TC001_AccountRegistrationTest - validating the expected message
+14:06:02.598 [main] INFO  testCases.TC001_AccountRegistrationTest - *********finished TC001_accountRegistrationTest***********
+11:12:26.278 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\mopullag\eclipse-workspace\Hybridframework\master.xml
+
+11:12:34.583 [main] INFO  testCases.TC002_LoginTest - *********starting tc002_LoginTest***********
+11:15:17.100 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\mopullag\eclipse-workspace\Hybridframework\master.xml
+
+11:15:22.117 [main] INFO  testCases.TC002_LoginTest - *********starting tc002_LoginTest***********
+11:17:39.657 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\mopullag\eclipse-workspace\Hybridframework\master.xml
+
+11:17:44.407 [main] INFO  testCases.TC002_LoginTest - *********starting tc002_LoginTest***********
+11:18:58.164 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\mopullag\eclipse-workspace\Hybridframework\master.xml
+
+11:19:02.590 [main] INFO  testCases.TC002_LoginTest - *********starting tc002_LoginTest***********
+11:19:04.140 [main] INFO  testCases.TC002_LoginTest - *********Finished tc002_LoginTest***********
+14:49:14.803 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\mopullag\eclipse-workspace\Hybridframework\master.xml
+
+14:49:25.633 [main] INFO  testCases.TC003_LoginDDT - *********starting TC003_LoginDDT***********
+14:49:28.235 [main] INFO  testCases.TC003_LoginDDT - *********Finished TC003_LoginDDT***********
+14:49:28.255 [main] INFO  testCases.TC003_LoginDDT - *********starting TC003_LoginDDT***********
+14:49:30.868 [main] INFO  testCases.TC003_LoginDDT - *********starting TC003_LoginDDT***********
+14:49:32.981 [main] INFO  testCases.TC003_LoginDDT - *********starting TC003_LoginDDT***********
+14:49:35.094 [main] INFO  testCases.TC003_LoginDDT - *********starting TC003_LoginDDT***********
+14:49:37.726 [main] INFO  testCases.TC003_LoginDDT - *********Finished TC003_LoginDDT***********
+14:50:22.031 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\mopullag\eclipse-workspace\Hybridframework\master.xml
+

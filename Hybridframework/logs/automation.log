@@ -1,0 +1,26 @@
+15:31:54.163 [main] INFO  testCases.TC001_AccountRegistrationTest - validating the expected message
+15:31:54.286 [main] INFO  testCases.TC001_AccountRegistrationTest - *********finished TC001_accountRegistrationTest***********
+15:32:01.458 [main] INFO  testCases.TC002_LoginTest - *********starting tc002_LoginTest***********
+15:32:04.110 [main] INFO  testCases.TC002_LoginTest - *********Finished tc002_LoginTest***********
+15:37:53.366 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\mopullag\eclipse-workspace\Hybridframework\master.xml
+
+15:38:01.059 [main] INFO  testCases.TC001_AccountRegistrationTest - *********starting tc001_accountRegistrationTest***********
+15:38:01.340 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on myaccount link
+15:38:02.192 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register Link
+15:38:02.202 [main] INFO  testCases.TC001_AccountRegistrationTest - providing customer details
+15:38:05.532 [main] INFO  testCases.TC001_AccountRegistrationTest - validating the expected message
+15:38:05.625 [main] INFO  testCases.TC001_AccountRegistrationTest - *********finished TC001_accountRegistrationTest***********
+15:38:12.497 [main] INFO  testCases.TC002_LoginTest - *********starting tc002_LoginTest***********
+15:38:15.573 [main] INFO  testCases.TC002_LoginTest - *********Finished tc002_LoginTest***********
+16:07:47.564 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\mopullag\eclipse-workspace\Hybridframework\master.xml
+
+16:08:02.337 [main] INFO  testCases.TC001_AccountRegistrationTest - *********starting tc001_accountRegistrationTest***********
+16:08:02.558 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on myaccount link
+16:08:03.755 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register Link
+16:08:03.760 [main] INFO  testCases.TC001_AccountRegistrationTest - providing customer details
+16:08:06.284 [main] INFO  testCases.TC001_AccountRegistrationTest - validating the expected message
+16:08:06.381 [main] INFO  testCases.TC001_AccountRegistrationTest - *********finished TC001_accountRegistrationTest***********
+16:08:13.439 [main] INFO  testCases.TC002_LoginTest - *********starting tc002_LoginTest***********
+16:08:15.870 [main] INFO  testCases.TC002_LoginTest - *********Finished tc002_LoginTest***********

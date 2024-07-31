@@ -1,0 +1,53 @@
+18:43:47.289 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on myaccount link
+18:43:51.641 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register Link
+18:43:51.643 [main] INFO  testCases.TC001_AccountRegistrationTest - providing customer details
+18:43:54.573 [main] INFO  testCases.TC001_AccountRegistrationTest - validating the expected message
+18:43:54.634 [main] INFO  testCases.TC001_AccountRegistrationTest - *********finished TC001_accountRegistrationTest***********
+18:44:55.284 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\mopullag\eclipse-workspace\Hybridframework\CrossBrowser.xml
+
+18:45:04.208 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - *********starting tc001_accountRegistrationTest***********
+18:45:04.206 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *********starting tc001_accountRegistrationTest***********
+18:45:04.543 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on myaccount link
+18:45:04.659 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on myaccount link
+18:45:15.263 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register Link
+18:45:15.267 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - providing customer details
+18:48:14.939 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\mopullag\eclipse-workspace\Hybridframework\CrossBrowser.xml
+
+18:48:37.262 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - *********starting tc001_accountRegistrationTest***********
+18:48:37.386 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *********starting tc001_accountRegistrationTest***********
+18:48:46.033 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - *********starting tc001_accountRegistrationTest***********
+18:48:46.487 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on myaccount link
+18:48:46.749 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on myaccount link
+18:48:47.027 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on myaccount link
+18:48:48.143 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register Link
+18:48:48.176 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - providing customer details
+18:50:04.372 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\mopullag\eclipse-workspace\Hybridframework\CrossBrowser.xml
+
+18:50:10.000 [main] INFO  testCases.TC001_AccountRegistrationTest - *********starting tc001_accountRegistrationTest***********
+18:50:10.296 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on myaccount link
+18:50:10.994 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register Link
+18:50:11.002 [main] INFO  testCases.TC001_AccountRegistrationTest - providing customer details
+18:50:12.669 [main] INFO  testCases.TC001_AccountRegistrationTest - validating the expected message
+18:50:12.754 [main] INFO  testCases.TC001_AccountRegistrationTest - *********finished TC001_accountRegistrationTest***********
+18:50:24.790 [main] INFO  testCases.TC001_AccountRegistrationTest - *********starting tc001_accountRegistrationTest***********
+18:50:24.988 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on myaccount link
+18:50:26.036 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register Link
+18:50:26.041 [main] INFO  testCases.TC001_AccountRegistrationTest - providing customer details
+18:50:28.182 [main] INFO  testCases.TC001_AccountRegistrationTest - validating the expected message
+18:50:28.250 [main] INFO  testCases.TC001_AccountRegistrationTest - *********finished TC001_accountRegistrationTest***********
+18:50:41.247 [main] INFO  testCases.TC001_AccountRegistrationTest - *********starting tc001_accountRegistrationTest***********
+18:50:41.537 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on myaccount link
+18:50:42.743 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register Link
+18:50:42.744 [main] INFO  testCases.TC001_AccountRegistrationTest - providing customer details
+18:50:44.783 [main] INFO  testCases.TC001_AccountRegistrationTest - validating the expected message
+18:50:44.829 [main] INFO  testCases.TC001_AccountRegistrationTest - *********finished TC001_accountRegistrationTest***********
+15:31:38.507 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\mopullag\eclipse-workspace\Hybridframework\grouping.xml
+
+15:31:49.625 [main] INFO  testCases.TC001_AccountRegistrationTest - *********starting tc001_accountRegistrationTest***********
+15:31:49.820 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on myaccount link
+15:31:50.837 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on register Link
+15:31:50.841 [main] INFO  testCases.TC001_AccountRegistrationTest - providing customer details
